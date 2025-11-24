@@ -1,4 +1,5 @@
-<img width="624" height="248" alt="image" src="https://github.com/user-attachments/assets/de3e3bc9-18a7-48c1-bcb6-91c679f3154a" />
+<img width="3097" height="1225" alt="Picture1" src="https://github.com/user-attachments/assets/c88b3760-d088-4a9d-8601-650a92512467" />
+
 
 # Brain Tumor Classification - Model Training Pipeline
 
