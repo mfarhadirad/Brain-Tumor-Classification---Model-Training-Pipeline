@@ -119,7 +119,9 @@ Model ensemble methods for improved performance
 DICOM data preprocessing pipeline
 
 # 👨‍💻 Developer
-Mohammad Farhadi Rad
+## Mohammad Farhadi Rad
+
+### ☢️Department of Medical Imaging and Radiation Sciences, School of Allied Medical Sciences, Ahvaz Jundishapur University of Medical Sciences, Ahvaz, Iran. 
 
 MSc Radiobiology | BSc Radiology Technology | AI Enthusiast
 
