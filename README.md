@@ -122,6 +122,8 @@ DICOM data preprocessing pipeline
 Mohammad Farhadi Rad
 
 MSc Radiobiology | BSc Radiology Technology | AI Enthusiast
-visit: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=owitg_8AAAAJ&citation_for_view=owitg_8AAAAJ:u-x6o8ySG0sC
 
 Research Interests: Quantitative Neuroimaging, AI in Medical Diagnostics, Multimodal Data Fusion
+
+visit: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=owitg_8AAAAJ&citation_for_view=owitg_8AAAAJ:u-x6o8ySG0sC
+
