@@ -1,3 +1,5 @@
+<img width="624" height="248" alt="image" src="https://github.com/user-attachments/assets/de3e3bc9-18a7-48c1-bcb6-91c679f3154a" />
+
 # Brain Tumor Classification - Model Training Pipeline
 
 A modular and reproducible deep learning pipeline for training and evaluating multiple convolutional neural networks (CNNs) on brain MRI data for tumor classification. This repository demonstrates a professional approach to medical image analysis, featuring custom-built modules for data handling, training, and visualization.
@@ -119,5 +121,6 @@ DICOM data preprocessing pipeline
 Mohammad Farhadi Rad
 
 MSc Radiobiology | BSc Radiology Technology | AI Enthusiast
+visit: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=owitg_8AAAAJ&citation_for_view=owitg_8AAAAJ:u-x6o8ySG0sC
 
 Research Interests: Quantitative Neuroimaging, AI in Medical Diagnostics, Multimodal Data Fusion
